@@ -1,0 +1,4 @@
+nagios-config
+=============
+
+Nagios configuration
